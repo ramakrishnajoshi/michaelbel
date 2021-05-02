@@ -5,7 +5,7 @@ val engineer: android development {
     about {
         name = "Michael Bely"
         city = "Moscow"
-        companies = listOf(@cmtt, @coub)
+        companies = listOf(@cmtt-ru, @coub)
     }
     links {
         telegram = "@michaelbel"
