@@ -3,12 +3,13 @@
 ```kotlin
 val engineer: android_development {
     about {
-        name = "Michael Bely"
+        name = "Ramakrishna Joshi"
         city = "Moscow"
-        companies = listOf(@cmtt-ru, @coub)
+        companies = listOf(@Falabella, @Compassites)
     }
     links {
         telegram = "@michaelbel"
+        medium = "@ramakrishnajoshi"
     }
 }
 ```
