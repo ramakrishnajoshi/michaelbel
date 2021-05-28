@@ -4,12 +4,11 @@
 val engineer: android_development {
     about {
         name = "Ramakrishna Joshi"
-        city = "Moscow"
+        city = "Bangalore, India"
         companies = listOf(@Falabella, @Compassites)
     }
     links {
-        telegram = "@michaelbel"
-        medium = "@ramakrishnajoshi"
+        medium = "@ramakrishna.joshi"
     }
 }
 ```
